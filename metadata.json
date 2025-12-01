@@ -1,0 +1,7 @@
+{
+  "name": "AVinci",
+  "description": "AVinci: An AI-powered platform for literature education, enabling teachers to create assignments and students to receive instant feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
